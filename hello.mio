@@ -1,0 +1,5 @@
+input "io" as ioL //導入io函數庫
+set x = "hello" //設定x為"hello"
+set print = ioL.out //設定print為io庫裡的out函數
+
+print x //召喚io裡的out函數
