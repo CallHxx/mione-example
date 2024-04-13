@@ -1,0 +1,6 @@
+input "io" as ioL
+set x = 24 ////
+set myFunction = $
+  a => x //全域變數//
+@
+ioL.out (a)
