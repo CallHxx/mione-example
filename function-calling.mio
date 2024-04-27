@@ -1,0 +1,6 @@
+set x = $
+  get _x,y
+  return _x+y
+@
+
+x (1,2)
