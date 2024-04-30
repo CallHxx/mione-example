@@ -1,4 +1,4 @@
-# Mione 🪶 米奧語言基本語法
+# Mione 🪶 語言基本語法
 ###### Mione直譯器：[Mioprety/Mione](https://github.com/Mioprety/Mione)
 ## 你好！
 ###### 開發者們！
